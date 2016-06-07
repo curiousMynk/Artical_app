@@ -1,0 +1,2 @@
+module ArticalHelper
+end
